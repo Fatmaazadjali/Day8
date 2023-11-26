@@ -1,0 +1,15 @@
+C:\Users\Training\Desktop\Fatma Alzadjali\practicals solution\practicals\bin\Debug\net7.0\practicals.exe
+C:\Users\Training\Desktop\Fatma Alzadjali\practicals solution\practicals\bin\Debug\net7.0\practicals.deps.json
+C:\Users\Training\Desktop\Fatma Alzadjali\practicals solution\practicals\bin\Debug\net7.0\practicals.runtimeconfig.json
+C:\Users\Training\Desktop\Fatma Alzadjali\practicals solution\practicals\bin\Debug\net7.0\practicals.dll
+C:\Users\Training\Desktop\Fatma Alzadjali\practicals solution\practicals\bin\Debug\net7.0\practicals.pdb
+C:\Users\Training\Desktop\Fatma Alzadjali\practicals solution\practicals\obj\Debug\net7.0\practicals.csproj.AssemblyReference.cache
+C:\Users\Training\Desktop\Fatma Alzadjali\practicals solution\practicals\obj\Debug\net7.0\practicals.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Training\Desktop\Fatma Alzadjali\practicals solution\practicals\obj\Debug\net7.0\practicals.AssemblyInfoInputs.cache
+C:\Users\Training\Desktop\Fatma Alzadjali\practicals solution\practicals\obj\Debug\net7.0\practicals.AssemblyInfo.cs
+C:\Users\Training\Desktop\Fatma Alzadjali\practicals solution\practicals\obj\Debug\net7.0\practicals.csproj.CoreCompileInputs.cache
+C:\Users\Training\Desktop\Fatma Alzadjali\practicals solution\practicals\obj\Debug\net7.0\practicals.dll
+C:\Users\Training\Desktop\Fatma Alzadjali\practicals solution\practicals\obj\Debug\net7.0\refint\practicals.dll
+C:\Users\Training\Desktop\Fatma Alzadjali\practicals solution\practicals\obj\Debug\net7.0\practicals.pdb
+C:\Users\Training\Desktop\Fatma Alzadjali\practicals solution\practicals\obj\Debug\net7.0\practicals.genruntimeconfig.cache
+C:\Users\Training\Desktop\Fatma Alzadjali\practicals solution\practicals\obj\Debug\net7.0\ref\practicals.dll
